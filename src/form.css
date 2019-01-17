@@ -1,0 +1,24 @@
+.login-form {
+    max-width: 300px;
+  }
+.login-form-forgot {
+    float: right;
+  }
+  .login-form-button {
+    width: 100%;
+  }
+  .login-button{
+    background: lightskyblue;
+    margin: 20px;
+    border:50px;
+    border-radius: 4px;
+    width: 100px;
+    line-height: 25px;
+    
+  }
+  .login-button:hover{
+  color: white;
+  opacity: 10;
+  background: lightseagreen;
+transition:all 0.2s;
+    }
